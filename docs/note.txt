@@ -1,5 +1,3 @@
 Git giúp theo dõi lịch sử thay đổi
 Dễ dàng return phiên bản trước khi có lỗi
 Hỗ trợ làm việc nhóm
-Hỗ trợ tạo nhánh
-Tích hợp tốt GitHub

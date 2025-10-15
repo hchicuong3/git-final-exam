@@ -1,0 +1,8 @@
+Tính năng A: Quản lý người dùng
+
+1. Cho phép thêm mới người dùng.
+2. Cập nhật thông tin người dùng.
+3. Xoá người dùng khỏi hệ thống.
+4. Hiển thị danh sách người dùng.
+5. Tìm kiếm người dùng theo tên hoặc ID.
+

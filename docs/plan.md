@@ -14,6 +14,7 @@ Tuần học: 15/10/2025 -> 22/10/2025
 8. Học các lệnh git stash, cherry-pick.
 9. Viết tài liệu tổng kết lại những gì đã học.
 10. Chuẩn bị cho bài kiểm tra Git cuối kỳ.
+<<<<<<< Updated upstream
 11. 11\. Học về Git stash và ứng dụng thực tế.
 12. 12\. Thực hành lưu tạm thay đổi bằng stash.
 13. 13\. Hiểu quy trình apply stash vào dự án.
@@ -21,3 +22,8 @@ Tuần học: 15/10/2025 -> 22/10/2025
 
 
 
+=======
+11. 15\. Hoàn thiện bài thi Git.
+12. 16\. Đẩy toàn bộ kết quả lên GitHub.
+13. 
+>>>>>>> Stashed changes

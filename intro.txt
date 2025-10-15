@@ -1,0 +1,23 @@
+Giới thiệu cá nhân:
+Tôi là Huỳnh Chí Cường, sinh viên năm 4 ngành Công nghệ Thông tin tại trường ĐH Nam Cần Thơ.
+Tôi yêu thích lập trình và game.
+Tôi thích trà sữa và các món ngọt.
+Tôi mong có công việc ổn định trong tương lai.
+Tôi luôn muốn học hỏi những điều mới mỗi ngày.
+
+Sở thích:
+1. Coi phim
+2. Chơi game
+3. Lập trình ứng dụng nhỏ
+
+Kỹ năng:
+1. C#
+2. SQL Server
+3. Git
+
+Kế hoạch học tập:
+1. Ôn lại kiến thức Git căn bản và nâng cao.
+2. Thực hành các lệnh Git trong dự án thực tế.
+3. Học về Git branching và merge conflict.
+4. Tìm hiểu GitHub Actions và CI/CD cơ bản.
+5. Áp dụng Git trong quản lý nhóm học tập.

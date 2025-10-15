@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi là Huỳnh Chí Cường, sinh viên năm 4 ngành Công nghệ Thông tin tại trường ĐH Nam Cần Thơ.
+Tôi yêu thích lập trình và game.
+Tôi thích trà sữa và các món ngọt.
+Tôi mong có công việc ổn định trong tương lai.
+Tôi luôn muốn học hỏi những điều mới mỗi ngày.
+
+Sở thích:
+1. Coi phim
+2. Chơi game
+3. Lập trình ứng dụng nhỏ
+
+Kỹ năng:
+1. C#
+2. SQL Server
+3. Git
